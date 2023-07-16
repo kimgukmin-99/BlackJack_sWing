@@ -16,6 +16,7 @@ public class MyFrame extends JFrame {
         contentPane.add(new JButton("mul"));
         contentPane.add(new JButton("div"));
         contentPane.add(new JButton("Calculate"));
+        contentPane.add(new JButton("Calculate"));
 
         setSize(300, 200);
         setVisible(true);
